@@ -1,0 +1,91 @@
+.tabela1{
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 100px;
+    margin-top: 2px;
+}
+
+.tabela2{
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 100px;
+    margin-top: 2px;
+}
+
+.tabela3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 100px;
+    margin-top: 2px;
+}
+
+BODY{
+    font-family: Arial, sans-serif;         
+    margin: 0 auto;
+}
+
+.cabeca{
+    margin-top: 2px;
+    color: black  ;
+}
+
+.piloto{
+    color: black;
+}
+.pais{
+    font-size: 6px;
+    text-align: left;
+}
+
+.equipe{
+    color: silver;
+}
+
+.pontos{
+    color: black;
+    font-size: 15px;
+}
+
+.clasificacao{
+    color: chartreuse;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center; 
+    color: black;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+img {
+    width: 100%;
+  height: 400px;
+  }
+
+body{
+    background-color: rgb(228, 228, 228);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
